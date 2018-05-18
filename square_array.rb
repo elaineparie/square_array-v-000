@@ -4,6 +4,6 @@ array.each do |element|
   element ** 2
   new_array = []
   new_array << element
-new_array
 end
+new_array
 end
